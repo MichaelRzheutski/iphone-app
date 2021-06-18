@@ -1,0 +1,88 @@
+/*----------------- Making Elements Block -----------------*/
+header, footer, nav, section, article {
+	display: block;
+}
+
+/*----------------- Common Styles -----------------*/
+.container {
+	text-align: center;
+}
+
+/* Main menu */
+nav {
+	margin-top: 60px;
+}
+
+/* Logo */
+#logo {
+	margin-left: -277px;
+	padding-top: 35px;
+}
+
+/* Header */
+header p {
+	margin-left: -570px;
+	font-size: 14px;
+	text-align: left;
+}
+
+/* iPhone Logo */
+h1.iphone-app {
+	margin-left: -547px;
+	position: relative;
+	top: 16px;
+}
+
+.iphone-wrap p {
+	margin-left: -597px;
+	position: relative;
+	top: 15px;
+}
+
+/* Buy Now Button */
+a.buy-now {
+	margin-left: -475px;
+}
+
+/*----------------- Screenshots -----------------*/
+ul#items {
+	margin-top: 15px;
+	margin-right: -20px;
+}
+
+ol#pagination li.prev {
+	margin-left: -30px;
+}
+
+/*----------------- Features -----------------*/
+#features p {
+	margin-top: 12px;
+}
+
+/* As see on Links*/
+
+div.as-seen-on ul li a, div.as-seen-on ul li a:hover {
+	text-indent: -9999px;
+}
+
+.as-seen-on {
+	padding-top: 20px;
+}
+
+.as-seen-on h3 {
+	position: relative;
+	left: -125px;
+}
+
+.app-olicious {
+	position: absolute;
+}
+
+/* GraphicsFuel */
+.graphicsfuel {
+	text-align: left;
+}
+
+.graphicsfuel h3 {
+	font-size: 20px;
+}

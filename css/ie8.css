@@ -1,0 +1,9 @@
+/*----------------- Making Elements Block -----------------*/
+header, footer, nav, section, article {
+  display: block;
+}
+
+/*----------------- Header -----------------*/
+header p {
+  font-size: 14px;
+}

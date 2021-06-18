@@ -1,0 +1,114 @@
+/*----------------- Making Elements Block -----------------*/
+header, footer, nav, section, article {
+	display: block;
+}
+
+/*----------------- Common Styles -----------------*/
+body {
+	text-align: center;
+}
+
+/* Main Menu */
+nav {
+	width: 545px;
+	margin-top: 53px;
+	margin-right: 2px;
+}
+
+/* Logo */
+#logo {
+	margin-left: -235px;
+	padding-top: 25px;
+	position: relative;
+}
+
+#logo a {
+	background: url(../images/logo.png) no-repeat;
+	height: 72px;
+	width: 173px;
+}
+
+/*----------------- Header -----------------*/
+header {
+	height: 633px;
+}
+
+header p {
+	margin-left: -590px;
+	position: relative;
+	top: 14px;
+	width: 370px;
+	text-align: left;
+}
+
+/* iPhone */
+.iphone {
+	margin-bottom: -45px;
+	height: 535px;
+}
+
+h1.iphone-app {
+	margin-left: -547px;
+	position: relative;
+	top: 14px;
+}
+
+/* Buy Now Button */
+div.buy-now {
+	margin-top: -152px;
+}
+
+a.buy-now {
+	margin:-120px 0 0 -477px;
+}
+
+/*----------------- Screenshots -----------------*/
+.screenshots-wrapper {
+	position: relative;
+}
+
+.screenshots-title-bg span {
+	background:url(../images/screenshots-title.png) no-repeat 50% 0;
+}
+
+ol#pagination li.prev {
+	margin-left: -530px;
+}
+
+/*----------------- Features -----------------*/
+#features div {
+	width: 300px;
+	margin-top: 10px;
+}
+
+.features-wrapper {
+	position: relative;
+}
+
+.features-title-bg span {
+	background:url(../images/features-title.png) no-repeat 30% 0;
+	height: 0;
+}
+
+/* As see on Links*/
+.as-seen-on {
+	padding-top: 20px;
+}
+
+.as-seen-on h3 {
+	position: relative;
+	left: -120px;
+	margin-bottom: 7px;
+}
+
+.app-olicious {
+	position: absolute;
+}
+
+/* GraphicsFuel */
+.graphicsfuel {
+	text-align: left;
+}
+.graphicsfuel h3 {
+	font-size: 20px;
+}

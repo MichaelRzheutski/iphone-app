@@ -1,0 +1,86 @@
+/*----------------- Making Elements Block -----------------*/
+header, footer, nav, section, article {
+	display: block;
+}
+
+/* Main Menu */
+nav {
+	width: 545px;
+	margin-top: 53px;
+	margin-right: 2px;
+}
+
+/* Logo */
+#logo {
+	margin-left: -235px;
+	padding-top: 25px;
+}
+
+/*----------------- Header -----------------*/
+header p{
+	text-align: left;
+}
+
+/* iPhone */
+.iphone {
+	margin-bottom: -50px;
+	margin-top: -10px;
+}
+
+h1.iphone-app {
+	margin-left: -547px;
+	position: relative;
+	top: 14px;
+}
+
+.iphone p {
+	margin-left: -597px;
+	position: relative;
+	top: 14px;
+}
+
+/* Buy Now Button */
+div.buy-now {
+	margin-top: -145px;
+}
+
+a.buy-now {
+	margin: -130px 0 0 -477px;
+}
+
+/*----------------- Screenshots -----------------*/
+.screenshots-wrapper {
+	margin-top: -20px;
+}
+
+ol#pagination li.prev {
+	margin-left: -530px;
+}
+
+/*----------------- Features -----------------*/
+.features-title-bg span {
+	height: 0;
+}
+
+/* As see on Links*/
+.as-seen-on {
+	padding-top: 20px;
+}
+
+.as-seen-on h3 {
+	position: relative;
+	left: -123px;
+	margin-bottom: 17px;
+}
+
+.app-olicious {
+	position: absolute;
+}
+
+/* GraphicsFuel */
+.graphicsfuel {
+	text-align: left;
+}
+.graphicsfuel h3 {
+	font-size: 20px;
+}
