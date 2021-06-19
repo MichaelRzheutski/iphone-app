@@ -4,4 +4,4 @@ Desktop First. Фиксированная вёрстка с использова
 
 Используемые технологии: **HTML5**, **CSS3**, **JavaScript**, **jQuery**, **Git**.
 
-![iPhone App - Entire-Page](iphone-app.png)
+![iPhone App - Entire-Page](iphone-app.jpg)
